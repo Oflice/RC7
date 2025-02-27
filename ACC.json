@@ -1,6 +1,6 @@
 {
-  ["ACCOUNT1"]: {
+  "ACCOUNT1": {
     "username": "FLY",
-    "password": "fly__pass",
+    "password": "fly__pass"
   }
 }
